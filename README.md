@@ -1,3 +1,4 @@
+![Cover Art](CArtOne.jpg)
 ### Hi there 👋
 
 <!--
