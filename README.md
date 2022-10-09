@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JS | HTML | CSS | Python**
 
-- 📫 How to reach me **vismdbs@gmail.com | vmcringe.asm@gmail.com**
+- 📫 How to reach me **vismdbs@gmail.com | vismdbs@outlook.com**
 
 - ⚡ Fun fact **I would rather read Manga 😜 than to watch it's Anime Adaptation**
 
