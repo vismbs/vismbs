@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL | Nest JS | Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nessun-dorma](https://github.com/nessun-dorma)
+- 👨‍💻 All of my projects are available at [https://github.com/vismbs](https://github.com/vismbs)
 
 - 💬 Ask me about **JS | HTML | CSS | Python**
 
