@@ -1,18 +1,18 @@
 <img src="CArtOne.jpg"></img>
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">The Noicest Full Stack Developer</h3>
+<h3 align="center">Stoic Full Stack Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nessun-dorma&label=Profile%20views&color=0e75b6&style=flat" alt="nessun-dorma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nessun-dorma" alt="nessun-dorma" /></a> </p> -->
 
-- 🔭 I’m currently working on [Rehub](https://github.com/Rehub-Mental-Wellness/RehubDJS)
+- 🔭 I’m currently working on [Forkify](https://github.com/vismbs/Forkify)
 
-- 🌱 I’m currently learning **PostgreSQL | Nest JS | Node JS**
+- 🌱 I’m currently learning **Elixir | Phoenix | React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vismbs](https://github.com/vismbs)
 
-- 💬 Ask me about **JS | HTML | CSS | Python**
+- 💬 Ask me about **CSS | C | Elixir | Python | JavaScript**
 
 - 📫 How to reach me **vismdbs@gmail.com | vismdbs@outlook.com**
 
