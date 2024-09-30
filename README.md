@@ -1,4 +1,3 @@
-<img src="CArtOne.jpg"></img>
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">Stoic Full Stack Developer</h3>
 
